@@ -1,0 +1,9 @@
+{
+  "name": "svelte-blog",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "ohqte",
+  "description": "n/a",
+  "keywords": ["TODO"],
+  "license": "MIT"
+}
